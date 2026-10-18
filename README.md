@@ -2,7 +2,7 @@
   <img src="./dino.svg" alt="Debarpan - dino runner" width="800">
 </div>
 
-## 🧑‍💻 About Me
+##
 
 I'm a second year B.Tech Computer Science student at **JIS College of Engineering, Kalyani**. I love building and designing things, from clean interfaces to intelligent systems that actually do something useful. I'm especially drawn to **AI agents**, **retrieval-augmented generation (RAG)**, and **large language models**.
 
