@@ -46,6 +46,11 @@ I'm a second year B.Tech Computer Science student at **JIS College of Engineerin
   <img src="https://github-readme-stats.vercel.app/api?username=npcenergydev&show_icons=true&theme=dark&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=npcenergydev&theme=dark&hide_border=true" height="150" />
 </p>
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/debarpan__?theme=dark&font=Fira%20Code&ext=heatmap" />
+</p>
 
 ## 🐍 Contribution Snake
 
@@ -60,9 +65,9 @@ I'm a second year B.Tech Computer Science student at **JIS College of Engineerin
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/npcenegydev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debarpanc381@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/npcenergydev)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/debarpan__)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debarpanc381@gmail.com)
 ---
 
 <p align="center"><i>"Build things, break things, learn things."</i></p>
