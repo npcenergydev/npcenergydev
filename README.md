@@ -46,6 +46,7 @@ I'm a second year B.Tech Computer Science student at **JIS College of Engineerin
   <img src="https://github-readme-stats.vercel.app/api?username=npcenergydev&show_icons=true&theme=dark&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=npcenergydev&theme=dark&hide_border=true" height="150" />
 </p>
+
 ## 🧩 LeetCode Stats
 
 <p align="center">
