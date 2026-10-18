@@ -29,8 +29,8 @@ I'm a second year B.Tech Computer Science student at **JIS College of Engineerin
 
 | Project | Description |
 |---|---|
-| **[VARUNA](https://github.com/npcenergydev/VARUNA)** | Vision-based oil spill detection and vessel attribution (Smart India Hackathon) |
-| **[YapChat](https://github.com/npcenergydev/Yapchat)** | One line on what YapChat does and its stack |
+| **[VARUNA](https://github.com/npcenergydev/VARUNA)** | Vision-based oil spill detection and vessel attribution (Smart India Hackathon 2026) |
+| **[YapChat](https://github.com/npcenergydev/Yapchat)** | A Cafe themed live messaging and media sharing platform |
 | **ATLAS: Agentic RAG** 🚧 | Agentic RAG system, currently under development |
 
 ## 🌱 Learning
